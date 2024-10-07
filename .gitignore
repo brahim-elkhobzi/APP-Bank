@@ -1,0 +1,7 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+instance/
+*/*/__pycache__
+images/
